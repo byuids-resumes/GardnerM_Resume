@@ -6,7 +6,7 @@ title: Megan Gardner's Resume
 Accountant, Data Science
 
 <div id="webaddress">
-<a href="meg.gardner2019@gmail.com">Email:</a>
+<a href="meg.gardner2019@gmail.com">Email: "meg.gardner2019@gmail.com</a>
 </div>
 
 
