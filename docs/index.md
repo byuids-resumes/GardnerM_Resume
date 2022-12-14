@@ -26,7 +26,7 @@ Using Data Science to help with investments, Business Tax, eCommerce accounting 
 
 ## Education
 
-`2017-2019`
+`2017 - 2019`
 __Brigham Young University - Provo__
 
 `2019 - now`
@@ -35,7 +35,7 @@ __Brigham Young University - Idaho__
 
 ## Occupation
 
-`2019-2020`
+`2019 - 2020`
 __Deseret Book Industries__, Rexburg, Idaho
 
 - Distribution Center Employee
@@ -46,7 +46,7 @@ __K-12 Online Schools__, Texas
 - Class schedules
 - Parent communication
 
-'2022 - 2023'
+`2022 - 2023`
 __LedgerGurus__, Utah
 
 - eCommerce Accountant 
